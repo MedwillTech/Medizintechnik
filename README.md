@@ -1,3 +1,4 @@
+
 # 👋 Bienvenue sur mon profil GitHub!
 
 ![Banner](https://your-image-link-here.com/banner.jpg)  
@@ -13,8 +14,9 @@ Je suis un **Data Scientist** passionné avec des compétences avancées en **Da
   - Langages : Python, SQL
   - Bases de données : SQL Server, NoSQL
   - Visualisation : Power BI
-  - Gestion de flux : Apache Airflow, Data Factory
+  - Gestion de flux : Apache Airflow, Data Factory, Stream Analytics, Azure Databricks
 - 🚀 Toujours en quête d'optimisation des flux de données et de résolution de problèmes complexes grâce aux données.
+- 🌍 Langues : Français, Anglais, Allemand
 
 ---
 
@@ -29,6 +31,7 @@ Je suis un **Data Scientist** passionné avec des compétences avancées en **Da
 - Conception et déploiement de pipelines de données
 - Optimisation des performances de bases de données
 - Traitement ETL et ingestion de données à grande échelle
+- Utilisation de **Data Factory**, **Stream Analytics** et **Azure Databricks** pour des solutions de données avancées
 
 ### 📊 Visualisation des Données
 - Création de tableaux de bord interactifs
@@ -60,9 +63,9 @@ Je suis un **Data Scientist** passionné avec des compétences avancées en **Da
 ---
 
 ## 📈 Statistiques GitHub
-![Stats]((https://github.com/MedwillTech/Medizintechnik/edit/main/README.md))  
+![Stats](https://github-readme-stats.vercel.app/api?username=MedwillTech&show_icons=true&theme=radical)  
 
-![Langues](https://github.com/MedwillTech/Medizintechnik/edit/main/README.md)
+![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=MedwillTech&layout=compact&theme=radical)
 
 ---
 
@@ -72,3 +75,4 @@ Je suis un **Data Scientist** passionné avec des compétences avancées en **Da
 ---
 
 Merci de visiter mon profil ! ⭐ N'hésitez pas à explorer mes dépôts et à me suivre pour plus de contenu.
+```
