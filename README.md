@@ -53,7 +53,7 @@ Je suis un **Data Scientist** passionné avec des compétences avancées en **Da
 ---
 
 ## 🌐 Connectez avec moi
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/wilfried-agbamate-a4050a283/))
+- 💼 [LinkedIn]([(https://www.linkedin.com/in/wilfried-agbamate-a4050a283/)])
 - 📫 Email : medard.datatech@gmail.com
 - 🌟 [Portfolio](https://your-portfolio-link.com)
 
