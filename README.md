@@ -3,20 +3,20 @@
 
 ![Banner](https://your-image-link-here.com/banner.jpg)  
 
-Je suis un **Data Scientist** passionné avec des compétences avancées en **Data Engineering**. Mon expertise couvre des plateformes comme **Microsoft Azure** et **Google Cloud Platform (GCP)**, ainsi que des outils puissants comme **Python**, **SQL Server**, et **Power BI** pour la visualisation des données.
+Je suis un **Data Scientist** et **Data Engineer** hautement qualifié, titulaire d'un **Master en Management de Systèmes d'Information** obtenu à l'**Université de Paderborn en Allemagne** en avril 2022. Fort de mes expériences en entreprise et en freelance, j'ai démontré ma capacité à résoudre des défis complexes liés aux données et à concevoir des solutions innovantes. Grâce à des formations approfondies et à de multiples certifications, j'ai acquis une expertise reconnue dans mon domaine.
 
 ---
 
 ## 🌟 À propos de moi
-- 🎓 **Formation** : Passionné par l'analyse des données et leur transformation en informations exploitables.
-- 🌐 **Cloud Platforms** : Expertise en **Azure** et **GCP**, pour la gestion, l'ingestion et le traitement des données.
-- 🛠️ **Outils** : 
+- 🎓 **Formation académique** : Master en Management de Systèmes d'Information, Université de Paderborn, Allemagne.
+- 🌐 **Expériences professionnelles** : Missions réussies en entreprise et en freelance, avec des résultats mesurables.
+- 🛠️ **Outils et technologies** :
   - Langages : Python, SQL
   - Bases de données : SQL Server, NoSQL
   - Visualisation : Power BI
   - Gestion de flux : Apache Airflow, Data Factory, Stream Analytics, Azure Databricks
-- 🚀 Toujours en quête d'optimisation des flux de données et de résolution de problèmes complexes grâce aux données.
-- 🌍 Langues : Français, Anglais, Allemand
+- 🌍 **Langues** : Français, Anglais, Allemand
+- 🏆 **Certifications** : Plusieurs certifications avancées dans le domaine des données et des plateformes Cloud.
 
 ---
 
