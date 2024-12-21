@@ -53,16 +53,16 @@ Je suis un **Data Scientist** passionné avec des compétences avancées en **Da
 ---
 
 ## 🌐 Connectez avec moi
-- 💼 [LinkedIn]([(https://www.linkedin.com/in/wilfried-agbamate-a4050a283/)])
+- 💼 [LinkedIn](https://www.linkedin.com/in/wilfried-agbamate-a4050a283/)
 - 📫 Email : medard.datatech@gmail.com
 - 🌟 [Portfolio](https://your-portfolio-link.com)
 
 ---
 
 ## 📈 Statistiques GitHub
-![Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![Stats]((https://github.com/MedwillTech/Medizintechnik/edit/main/README.md))  
 
-![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Langues](https://github.com/MedwillTech/Medizintechnik/edit/main/README.md)
 
 ---
 
